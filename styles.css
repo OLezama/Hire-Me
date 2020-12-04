@@ -1,0 +1,74 @@
+p {
+    color: #00ffff;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+
+h2 {
+    color: #00ff99;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+}
+
+h3 {
+    color: #ffcccc;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+}
+
+h4 {
+    color: #ff704d;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    font-size:20px;
+}
+
+h5 {
+    color: #800040;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+}
+
+h6 {
+    color: brown;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+}
+
+li {
+    color: #cc0000;
+font-family: 'Abril Fatface', cursive;
+font-family: 'Caveat', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Ruge Boogie', cursive;
+    font-size: 33px;
+}
+
+img {
+    width: 50px;
+    width: 40%;
+    font-size: 20px;
+}
+
+.blue {
+    color: #009999;
+    text-align: center;
+    background-color: pink;
+    font-family: 'Abril Fatface', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Ruge Boogie', cursive;
+    font-size: 40px;
+}
+
+.red {
+    color: #cccc00;
+    text-align: center;
+    background-color: #000000;
+    font-size: 30px;
+}
